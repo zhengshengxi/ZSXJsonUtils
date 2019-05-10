@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ZSXJsonUtils.h"
 
 FOUNDATION_EXPORT double ZSXJsonUtilsVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZSXJsonUtilsVersionString[];

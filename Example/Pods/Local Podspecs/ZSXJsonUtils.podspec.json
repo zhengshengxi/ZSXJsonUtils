@@ -2,17 +2,17 @@
   "name": "ZSXJsonUtils",
   "version": "0.1.0",
   "summary": "A short description of ZSXJsonUtils.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/314334043@qq.com/ZSXJsonUtils",
+  "description": "json转字典 json转字典 json转字典 json转字典 json转字典",
+  "homepage": "https://github.com/zhengshengxi/ZSXJsonUtils",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "314334043@qq.com": "314334043@3cink.com"
+    "zhengshengxi": "314334043@qq.com"
   },
   "source": {
-    "git": "https://github.com/314334043@qq.com/ZSXJsonUtils.git",
+    "git": "https://github.com/zhengshengxi/ZSXJsonUtils.git",
     "tag": "0.1.0"
   },
   "platforms": {
