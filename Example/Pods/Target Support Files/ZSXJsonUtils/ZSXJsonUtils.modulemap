@@ -1,0 +1,6 @@
+framework module ZSXJsonUtils {
+  umbrella header "ZSXJsonUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
